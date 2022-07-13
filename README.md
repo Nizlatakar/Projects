@@ -5,4 +5,4 @@ If the player decides to hold the points the other player starts his turn.
 
 Guess the number is game for matching a digit.
 
-Moneyfy is banking application.It has user validation.
+Monefy is banking application.It has user validation.
